@@ -253,3 +253,4 @@ Auth::hasRole('myapp-backend', 'myapp-frontend-role1') // false
 # Contact
 
 Twitter [@robsontenorio](https://twitter.com/robsontenorio)
+Twitter [@SeibertGui](https://twitter.com/SeibertGui)
