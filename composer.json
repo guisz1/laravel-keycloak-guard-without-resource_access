@@ -1,15 +1,16 @@
 {
-    "name": "robsontenorio/laravel-keycloak-guard",
+    "name": "guisz1/laravel-keycloak-guard-without-resource_access",
     "description": "🔑 Simple Keycloak Guard for Laravel",
     "keywords": [
         "laravel",
         "keycloak"
     ],
-    "homepage": "https://github.com/robsontenorio/laravel-keycloak-guard",
+    "homepage": "https://github.com/guisz1/laravel-keycloak-guard-without-resource_access",
     "license": "MIT",
     "authors": [
         {
-            "name": "Robson Tenório"
+            "name": "Robson Tenório",
+            "name": "Guilherme Seibert Zulian"
         }
     ],
     "minimum-stability": "dev",
